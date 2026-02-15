@@ -1,0 +1,18 @@
+body, html {
+  height: 100%; /* Ensures the body and html elements cover the full viewport height */
+}
+
+body {
+  background-image: url("pexels-photo-24342984.jpeg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the image to cover the entire container */
+}
+
+h1 {
+    color: sienna;
+}
+
+p {
+    color: sandybrown;
+}
